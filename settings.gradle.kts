@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "playyeah"
 include(":app")
- 
+include(":common")
